@@ -2,20 +2,20 @@
 EclipseSettings
 
 Includes some helpful settings like:
-- Formatter		--> codeFormatter.xml
-- CodeTemplates 	--> codetemplates.xml
-- Keys 			--> keys.csv
-- Codingstyle		--> codingStype.pdf
+- Formatter				--> codeFormatter.xml
+- CodeTemplates 		--> codetemplates.xml
+- Keys 					--> keys.csv
+- Codingstyle			--> codingStype.pdf
 - bash settings for git --> .bashrc
-- settings for git	--> git_config
+- settings for git		--> git_config
 
 
 
 How To Embed:
 1. codeFormatter (Spec. nach der der Quellcode formatiert werden soll)
-    Diese Datei solltest du in dein Eclipse Ã¼ber Window->Preferences->Java->Code Style ->Formatter ->Import   einbinden.
-    Jetzt wird dein Code durch drÃ¼cken von Ctrl + Shift + F immer entsprechend formatiert.
-2. codetemplates (Vorlagen fÃ¼rs Erzeugen neuer Dateien, Typen etc.)
-    Diese Datei solltest du in dein Eclipse Ã¼ber Window->Preferences->Java->Code Style ->Code Templates ->Import   einbinden.
+    Diese Datei solltest du in dein Eclipse über Window->Preferences->Java->Code Style ->Formatter ->Import   einbinden.
+    Jetzt wird dein Code durch drücken von Ctrl + Shift + F immer entsprechend formatiert.
+2. codetemplates (Vorlagen fürs Erzeugen neuer Dateien, Typen etc.)
+    Diese Datei solltest du in dein Eclipse über Window->Preferences->Java->Code Style ->Code Templates ->Import   einbinden.
     Neu erstellte Klassen werden jetzt immer mit dem entspr. Header versehen inkl. deines Namens und Datum
 
