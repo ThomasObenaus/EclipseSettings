@@ -6,6 +6,8 @@ Includes some helpful settings like:
 - CodeTemplates 	--> codetemplates.xml
 - Keys 			--> keys.csv
 - Codingstyle		--> codingStype.pdf
+- bash settings for git --> .bashrc
+- settings for git	--> git_config
 
 
 
