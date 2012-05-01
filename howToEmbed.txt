@@ -1,0 +1,6 @@
+1. codeFormatter (Spec. nach der der Quellcode formatiert werden soll)
+    Diese Datei solltest du in dein Eclipse über Window->Preferences->Java->Code Style ->Formatter ->Import   einbinden.
+    Jetzt wird dein Code durch drücken von Ctrl + Shift + F immer entsprechend formatiert.
+2. codetemplates (Vorlagen fürs Erzeugen neuer Dateien, Typen etc.)
+    Diese Datei solltest du in dein Eclipse über Window->Preferences->Java->Code Style ->Code Templates ->Import   einbinden.
+    Neu erstellte Klassen werden jetzt immer mit dem entspr. Header versehen inkl. deines Namens und Datum 
