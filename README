@@ -10,6 +10,7 @@ Includes some helpful settings like:
 - settings for git		--> git_config
 - usefuill plugins		--> plugins
 - misc settings			--> misc
+- git on usb how-to		--> GitOnUSB.txt
 
 
 How To Embed:

@@ -1,0 +1,45 @@
+This is a step-by-step how to place a remote git-repository on a usb-stick
+1. create a directory on your USB device 
+cd /media/USB\ DISK/
+mkdir GitOnUSBRemote
+
+2. init a bare git-repository
+cd GitOnUSBRemote/
+git init --bare
+
+3. configure the repository
+git config receive.denyNonFastforwards true
+git config core.sharedrepository 1
+
+4. go to your hdd and create a directory for the local-clone of the usb git-repository
+cd ~/
+mkdir GitOnUSBLocal
+
+5. init the local git-repository
+cd GitOnUSBLocal/
+git init
+
+6. now we have to add and commit at least one change to be able to connect to the remote git repository on the usb-stick
+touch .gitignore
+git add .
+git ci -m "initial commit" 
+
+7. connect to remote repository on usb-stick
+git remote add origin file:///media/USB\ DISK/GitOnUSBRemote/
+git push -u origin master
+
+
+Clone a remote repository:
+
+1. create a local repository:
+cd ~/
+mkdir GitOnUSBLocal2
+
+2. clone the remote repository
+git clone file:///media/USBStick/GitOnUSBRemote/ GitOnUSBLocal2/
+
+
+Troubleshooting:
+
+1. On an error while doing "git push -u origin master" like "error: unable to create temporary sha1 filename ./objects/e6: Operation not permitted":
+just redo the "git push -u origin master" several times
