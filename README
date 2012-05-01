@@ -2,9 +2,10 @@
 EclipseSettings
 
 Includes some helpful settings like:
-- Formatter
-- CodeTemplates
-- Keys
+- Formatter		--> codeFormatter.xml
+- CodeTemplates 	--> codetemplates.xml
+- Keys 			--> keys.csv
+- Codingstyle		--> codingStype.pdf
 
 
 
