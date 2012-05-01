@@ -1,0 +1,3 @@
+Misc-Settings for eclipse:
+
+1. General->Workspace => Text-File encoding: ISO-8859-1

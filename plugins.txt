@@ -1,0 +1,33 @@
+List of useful eclipse plugins:
+
+1. EclEmma:
+- tool to visualize code-coverage of unit-tests
+- eclipse-updatesite: http://update.eclemma.org/
+
+2. Findbugs
+- static code analysis to look for bugs in Java code
+- eclipse-updatesite: http://findbugs.cs.umd.edu/eclipse
+
+3. Fat-Jar
+- The Fat Jar Eclipse Plug-In is a Deployment-Tool which deploys an Eclipse java-project into one executable jar.
+- eclipse-updatesite: http://kurucz-grafika.de/fatjar
+
+4. ResourceBundleEditor:
+- Eclipse plugin for editing Java resource bundles.
+- hosted on: http://sourceforge.net/projects/eclipse-rbe/
+
+5. EPIC
+- Eclipse Perl integration
+- eclipse-updatesite: http://e-p-i-c.sf.net/updates
+
+6. PyDev
+- Eclipse Python integration
+- eclipse-updatesite: http://pydev.org/updates
+
+7. EGit
+- Eclipse Git integration
+- eclipse-updatesite: http://download.eclipse.org/egit/updates
+
+8. Subclipse
+- Eclipse SVN integration
+- eclipse-updatesite: http://subclipse.tigris.org/update_1.8.x
