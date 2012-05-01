@@ -31,3 +31,12 @@ List of useful eclipse plugins:
 8. Subclipse
 - Eclipse SVN integration
 - eclipse-updatesite: http://subclipse.tigris.org/update_1.8.x
+
+9. CDT
+- Eclipse C/C++ integration
+- eclipse-updatesite (Indigo .. eclipse-3.7): http://download.eclipse.org/tools/cdt/releases/indigo
+
+10. Mylyn
+- Task-Repository/ Management tool
+- eclipse-updatesite: http://download.eclipse.org/mylyn/releases/latest
+
