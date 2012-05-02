@@ -44,5 +44,10 @@ List of useful eclipse plugins:
 - useful tools for the development of eclipse 4 plugins
 - eclipse-updatesite: http://download.eclipse.org/e4/downloads/drops/S-0.12M6-201203151300/repository/
 - install "E4 CSS spy" and "Eclipse E4 tools"
+
+12. EMF
+- Eclipse modelling framework
+- eclipse-updatesite:  http://download.eclipse.org/releases/juno/
+- install "EMF Eclipse Modelling Framework SDK" and "Ecore Tooling"
  
 
