@@ -4,7 +4,7 @@ EclipseSettings
 Includes some helpful settings like:
 - Formatter				--> codeFormatter.xml
 - CodeTemplates 		--> codetemplates.xml
-- Keys 					--> keys.csv
+- Keys 					--> keys.epf
 - Codingstyle			--> codingStype.pdf
 - bash settings for git --> .bashrc
 - settings for git		--> git_config
