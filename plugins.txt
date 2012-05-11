@@ -50,7 +50,7 @@ List of useful eclipse plugins:
 - eclipse-updatesite:  http://download.eclipse.org/releases/juno/
 - install "EMF Eclipse Modelling Framework SDK" and "Ecore Tooling"
  
-13. Workspace Mechanic (goolge)
+13. Workspace Mechanic (google)
 - allows you to set preferences globally for all workspaces 
 - eclipse-updatesite: http://workspacemechanic.eclipselabs.org.codespot.com/git.update/mechanic/
 
