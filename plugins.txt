@@ -57,3 +57,8 @@ List of useful eclipse plugins:
 14. CodeRecommenders
 - advanced code-completion suggestions based on the current context the cursor is located 
 - eclipse-updatesite: http://download.eclipse.org/recommenders/updates/stable/e42/
+
+15. JavaFX Tooling
+- some useful tools for JavaFX projects  
+- eclipse-updatesite: http://www.efxclipse.org/p2-repos/releases/latest
+- depending on the state of your ide you have to add this update-site: http://download.eclipse.org/modeling/tmf/xtext/updates/composite/latest/
