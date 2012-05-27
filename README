@@ -2,15 +2,16 @@
 EclipseSettings
 
 Includes some helpful settings like:
-- Formatter				--> codeFormatter.xml
-- CodeTemplates 		--> codetemplates.xml
-- Keys 					--> keys.epf
-- Codingstyle			--> codingStype.pdf
-- bash settings for git --> .bashrc
-- settings for git		--> git_config
-- usefuill plugins		--> plugins
-- misc settings			--> misc
-- git on usb how-to		--> GitOnUSB.txt
+- Formatter								--> codeFormatter.xml
+- CodeTemplates 						--> codetemplates.xml
+- Keys 									--> keys.epf
+- Codingstyle							--> codingStype.pdf
+- bash settings for git 				--> .bashrc
+- settings for git						--> git_config
+- usefuill plugins						--> plugins
+- misc settings							--> misc
+- git on usb how-to						--> GitOnUSB.txt
+- Eclipse code-snippets (templates) 	--> templates.xml
 
 
 How To Embed:
