@@ -22,3 +22,6 @@ How To Embed:
     Diese Datei solltest du in dein Eclipse ueber Window->Preferences->Java->Code Style ->Code Templates ->Import   einbinden.
     Neu erstellte Klassen werden jetzt immer mit dem entspr. Header versehen inkl. deines Namens und Datum 
 
+
+A1 
+
