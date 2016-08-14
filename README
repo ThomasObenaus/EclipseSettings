@@ -21,17 +21,3 @@ How To Embed:
 2. codetemplates (Vorlagen fuers Erzeugen neuer Dateien, Typen etc.)
     Diese Datei solltest du in dein Eclipse ueber Window->Preferences->Java->Code Style ->Code Templates ->Import   einbinden.
     Neu erstellte Klassen werden jetzt immer mit dem entspr. Header versehen inkl. deines Namens und Datum 
-
-
-A1
-A2
-
-Ändern
-Ändern 3, ohne review
-Ändern 4, ohne review
-Ändern 5, ohne review
-Ändern 6
-Ändern 7, mit review (PC)
-
-Commit 1
-Commit 2
