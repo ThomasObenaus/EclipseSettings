@@ -18,7 +18,7 @@ How To Embed:
 1. codeFormatter (specification for formatting of the source code)
    This file should be embedded into eclipse via 'Window->Preferences->Java->Code Style->Formatter->Import'.
    From now on the source-code will be formatted automatically on pressing 'Ctrl + Shift + F'.
-2. codetemplates (Vorlagen fuers Erzeugen neuer Dateien, Typen etc.)
+2. codetemplates (templates for the creation of classes, enums, files in general)
 	This file should be embedded into eclipse via 'Window->Preferences->Java->Code Style->Code Templates->Import'.
     From now on the defined comment will be added to each newly created class (including name, date, ..).
 
