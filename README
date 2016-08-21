@@ -20,3 +20,7 @@ How To Embed:
 2. codetemplates (templates for the creation of classes, enums, files in general)
 	This file should be embedded into eclipse via 'Window->Preferences->Java->Code Style->Code Templates->Import'.
     From now on the defined comment will be added to each newly created class (including name, date, ..).
+
+
+
+    hhhh
