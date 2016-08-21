@@ -22,3 +22,4 @@ How To Embed:
 	This file should be embedded into eclipse via 'Window->Preferences->Java->Code Style->Code Templates->Import'.
     From now on the defined comment will be added to each newly created class (including name, date, ..).
 
+OK (integration)
