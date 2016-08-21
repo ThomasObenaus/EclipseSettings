@@ -16,8 +16,8 @@ Includes some helpful settings like:
 
 How To Embed:
 1. codeFormatter (Spec. nach der der Quellcode formatiert werden soll)
-    Diese Datei solltest du in dein Eclipse ueber Window->Preferences->Java->Code Style ->Formatter ->Import   einbinden.
-    Jetzt wird dein Code durch druecken von Ctrl + Shift + F immer entsprechend formatiert.
+   This file should be embedded into eclipse via Window->Preferences->Java->Code Style->Formatter->Import.
+   From now on the source-code will be formatted automatically on pressing 'Ctrl + Shift + F'.
 2. codetemplates (Vorlagen fuers Erzeugen neuer Dateien, Typen etc.)
     Diese Datei solltest du in dein Eclipse ueber Window->Preferences->Java->Code Style ->Code Templates ->Import   einbinden.
     Neu erstellte Klassen werden jetzt immer mit dem entspr. Header versehen inkl. deines Namens und Datum
