@@ -13,7 +13,6 @@ Includes some helpful settings like:
 - git on usb how-to						--> GitOnUSB.txt
 - Eclipse code-snippets (templates) 	--> templates.xml
 
-
 How To Embed:
 1. codeFormatter (specification for formatting of the source code)
    This file should be embedded into eclipse via 'Window->Preferences->Java->Code Style->Formatter->Import'.
